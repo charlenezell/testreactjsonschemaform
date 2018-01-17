@@ -1,0 +1,7 @@
+{
+  "globalDependencies": {
+    "bootstrap": "registry:dt/bootstrap#3.3.5+20160726204056",
+    "react-jsonschema-form": "registry:dt/react-jsonschema-form#0.43.0+20170226152137",
+    "react-router-dom": "registry:dt/react-router-dom#4.0.0+20170323201651"
+  }
+}
